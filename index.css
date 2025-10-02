@@ -228,7 +228,8 @@ width: 40%;
 .inner_main{
     width: 100%;
     height: 60%;
-    margin: 100px 5%;
+    margin: 100px 0;
+    margin-left: 10%;
 }
 h1{
     font-size: 42px;
@@ -243,7 +244,7 @@ h1{
     width: 85%;
     height: 100%;
     border-radius: 15px;
-    margin-left: 10%;
+    margin-left: 5%;
 }
 #projects{
     margin-top: 0px;
