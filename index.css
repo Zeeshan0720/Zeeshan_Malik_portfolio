@@ -221,6 +221,8 @@ width: 40%;
 }
 #main{
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     height: 10%;
 }
 .inner_main{
